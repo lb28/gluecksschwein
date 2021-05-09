@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.unity.2d.animation": {
-      "version": "3.2.2",
+      "version": "3.2.4",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -41,13 +41,13 @@
       "dependencies": {}
     },
     "com.unity.2d.spriteshape": {
-      "version": "3.0.12",
+      "version": "3.0.13",
       "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.mathematics": "1.1.0",
         "com.unity.2d.common": "2.0.2",
-        "com.unity.2d.path": "2.0.5"
+        "com.unity.2d.path": "2.0.6"
       },
       "url": "https://packages.unity.com"
     },
